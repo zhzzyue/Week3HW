@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B2D891B13BDA2FE81AA156BF8B0F4B989CB57A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4B31AA7DE42B24DA907C852F1917CE12013115BC" : 9223372036854775807,
+    "0B2D891B13BDA2FE81AA156BF8B0F4B989CB57A8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5889152C-224E-457D-8ADF-C74D2619A47F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4B31AA7DE42B24DA907C852F1917CE12013115BC" : "",
+    "0B2D891B13BDA2FE81AA156BF8B0F4B989CB57A8" : "homework3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "homework3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "homework3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BBbig1031\/homeworkXYvalue.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B2D891B13BDA2FE81AA156BF8B0F4B989CB57A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BBbig1031\/2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B31AA7DE42B24DA907C852F1917CE12013115BC"
+    }
+  ]
+}
